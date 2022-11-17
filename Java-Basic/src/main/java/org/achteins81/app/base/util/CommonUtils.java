@@ -69,17 +69,4 @@ public class CommonUtils {
         return (firstStr + middleStr + lastStr);
     }
 
-    public static void main(String[] args) {
-        String desStr = desensitize("15828375982", 3, 4);
-        System.out.println(desStr);
-        System.out.println(desensitizeTextByType("蜗牛", "default"));
-        System.out.println(desensitizeTextByType("战斗机", "default"));
-        System.out.println(desensitizeTextByType("战争雷霆", "default"));
-        System.out.println(desensitizeTextByType("class", "default"));
-        System.out.println(desensitizeTextByType("battle", "default"));
-        System.out.println(desensitizeTextByType("Windows", "default"));
-        System.out.println(desensitizeTextByType("胡德号战列巡洋舰", "default"));
-        System.out.println(desensitizeTextByType("123456789", "default"));
-        System.out.println(desensitizeTextByType("举头望明月低头思故乡", "default"));
-    }
 }

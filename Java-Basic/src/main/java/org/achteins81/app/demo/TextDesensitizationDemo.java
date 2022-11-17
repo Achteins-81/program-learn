@@ -14,6 +14,7 @@ import java.util.regex.Pattern;
 public class TextDesensitizationDemo {
     public static void main(String[] args) {
         desensitizeIdCardInText();
+        desensitizeMultipleLengthText();
     }
 
     /**
@@ -44,5 +45,22 @@ public class TextDesensitizationDemo {
         String desensitizedText = textBuilder.toString();
         System.out.println(text);
         System.out.println(desensitizedText);
+    }
+
+    /**
+     * 不同长度的文本脱敏测试
+     */
+    public static void desensitizeMultipleLengthText() {
+        String desStr = CommonUtils.desensitize("15828375982", 3, 4);
+        System.out.println(desStr);
+        System.out.println(CommonUtils.desensitizeTextByType("蜗牛", "default"));
+        System.out.println(CommonUtils.desensitizeTextByType("战斗机", "default"));
+        System.out.println(CommonUtils.desensitizeTextByType("战争雷霆", "default"));
+        System.out.println(CommonUtils.desensitizeTextByType("class", "default"));
+        System.out.println(CommonUtils.desensitizeTextByType("battle", "default"));
+        System.out.println(CommonUtils.desensitizeTextByType("Windows", "default"));
+        System.out.println(CommonUtils.desensitizeTextByType("胡德号战列巡洋舰", "default"));
+        System.out.println(CommonUtils.desensitizeTextByType("123456789", "default"));
+        System.out.println(CommonUtils.desensitizeTextByType("举头望明月低头思故乡", "default"));
     }
 }
