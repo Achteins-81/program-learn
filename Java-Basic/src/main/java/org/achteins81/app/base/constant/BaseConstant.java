@@ -19,4 +19,13 @@ public class BaseConstant {
      * 特殊字符
      */
     public static final String SPECIAL_CHARACTER_STRING = "~!@#$%^&*()_+/-=[]{};'<>?.";
+
+    /**
+     * 天干
+     */
+    public static final String HEAVENLY_STEMS = "甲乙丙丁戊己庚辛壬癸";
+    /**
+     * 地支
+     */
+    public static final String EARTHLY_BRANCHES = "子丑寅卯辰巳午未申酉戌亥";
 }
