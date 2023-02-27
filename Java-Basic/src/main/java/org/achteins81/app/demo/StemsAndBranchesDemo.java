@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 天干地支遍历组合Demo
+ * 天干地支遍历组合demo
  *
  * @author Achteins-81
  * @since 2023-02-27

@@ -3,7 +3,7 @@ package org.achteins81.app.demo;
 import org.achteins81.app.base.object.EditDistance;
 
 /**
- * 编辑距离Demo
+ * 编辑距离demo
  *
  * @author Achteins-81
  * @since 2022-11-18

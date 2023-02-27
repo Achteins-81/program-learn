@@ -3,7 +3,7 @@ package org.achteins81.app.demo;
 import org.achteins81.app.random.RandomNumberGenerator;
 
 /**
- * 正态分布随机数生成Demo
+ * 正态分布随机数生成demo
  *
  * @author Achteins-81
  * @since 2023-02-03

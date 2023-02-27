@@ -3,7 +3,7 @@ package org.achteins81.app.demo;
 import org.achteins81.app.base.util.CommonUtils;
 
 /**
- * 随机复杂密码生成Demo
+ * 随机复杂密码生成demo
  *
  * @author Achteins-81
  * @since 2023-01-26
