@@ -9,24 +9,21 @@ import org.achteins81.app.base.util.CorpCodeUtils;
 public class CorpCodeDemo {
     public static void main(String[] args) throws Exception {
 
-
-        //
 //        String code1 = "91530622292785224";
 //        String code2 = "97028471650403700000";
-//
-//        SocialCreditCodeOperation object= new SocialCreditCodeOperation(20562);
+
         String code = CorpCodeUtils.getOrganizationCode();
-        System.out.println(code);
+        System.out.printf("组织机构代码：%s%n", code);
         System.out.println(test(code));
         code = CorpCodeUtils.getBusinessLisenseCode();
-        System.out.println(code);
+        System.out.printf("营业执照代码：%s%n", code);
         System.out.println(test1(code));
         code = CorpCodeUtils.getTaxRegistrationCode();
-        System.out.println(code);
+        System.out.printf("税务登记号码：%s%n", code);
         System.out.println(test2(code));
         System.out.println(CorpCodeUtils.checkTaxRegistrationCode(code));
         code = CorpCodeUtils.getSocialCreditCode();
-        System.out.println(code);
+        System.out.printf("统一社会信用代码：%s%n", code);
         System.out.println(test3(code));
         System.out.println(CorpCodeUtils.checkSocialCreditCode(code));
 //        System.out.println(object.dataVerify(code2));
@@ -49,7 +46,7 @@ public class CorpCodeDemo {
     }
 
     public static boolean test2(String data) {
-        return data.endsWith(String.valueOf(CorpCodeUtils.getCheckBit(data.substring(6, data.length() - 1))));
+        return data.endsWith(CorpCodeUtils.getCheckBit(data.substring(6, data.length() - 1)));
     }
 
     public static boolean test3(String data) {

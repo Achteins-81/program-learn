@@ -10,8 +10,8 @@ import org.achteins81.app.base.object.EditDistance;
  */
 public class EditDistanceDemo {
     public static void main(String[] args) {
-        String str1 = "1234";
-        String str2 = "1254";
+        String str1 = "102923114";
+        String str2 = "102923319";
         System.out.println("字符串相似度: " + new EditDistance().similar(str1, str2));
     }
 }
