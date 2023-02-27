@@ -49,7 +49,7 @@ public class MathUtils {
      * and
      * <a href="https://blog.csdn.net/qq_20185737/article/details/107524078">source2</a>
      */
-    public static int getAnotherGreatestCommonDivisor(int a, int b) {
+    public static int getGreatestCommonDivisorWithRecursion(int a, int b) {
         if (a < 0 || b < 0) {
             throw new RuntimeException("存在参数值小于0");
         }
@@ -66,7 +66,7 @@ public class MathUtils {
             return b;
         }
         //如果余数不等于0，递归调用继续取小数与余数的最大公约数
-        return getGreatestCommonDivisor(b, mod);
+        return getGreatestCommonDivisorWithRecursion(b, mod);
     }
 
     /**
