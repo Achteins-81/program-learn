@@ -25,7 +25,15 @@ public class BaseConstant {
      */
     public static final String HEAVENLY_STEMS = "甲乙丙丁戊己庚辛壬癸";
     /**
+     * 天干，数组形式
+     */
+    public static final String[] HEAVENLY_STEMS_ARRAY = HEAVENLY_STEMS.split("");
+    /**
      * 地支
      */
     public static final String EARTHLY_BRANCHES = "子丑寅卯辰巳午未申酉戌亥";
+    /**
+     * 地支，数组形式
+     */
+    public static String[] EARTHLY_BRANCHES_ARRAY = EARTHLY_BRANCHES.split("");
 }
