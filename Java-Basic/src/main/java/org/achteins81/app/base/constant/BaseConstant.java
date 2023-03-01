@@ -35,5 +35,5 @@ public class BaseConstant {
     /**
      * 地支，数组形式
      */
-    public static String[] EARTHLY_BRANCHES_ARRAY = EARTHLY_BRANCHES.split("");
+    public static final String[] EARTHLY_BRANCHES_ARRAY = EARTHLY_BRANCHES.split("");
 }
