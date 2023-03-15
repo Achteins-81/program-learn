@@ -14,7 +14,7 @@ public class MathUtils {
      * @param a 第一个整数
      * @param b 第二个整数
      * @return a和b的最大公约数
-     * @see <a href="https://baike.baidu.com/item/%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E7%AE%97%E6%B3%95/1647675">source</a>
+     * @see <a href="https://baike.baidu.com/item/%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E7%AE%97%E6%B3%95/1647675">source1</a>
      * and
      * <a href="https://blog.csdn.net/qq_20185737/article/details/107524078">source2</a>
      */
@@ -45,7 +45,7 @@ public class MathUtils {
      * @param a 第一个整数
      * @param b 第二个整数
      * @return a和b的最大公约数
-     * @see <a href="https://baike.baidu.com/item/%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E7%AE%97%E6%B3%95/1647675">source</a>
+     * @see <a href="https://baike.baidu.com/item/%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E7%AE%97%E6%B3%95/1647675">source1</a>
      * and
      * <a href="https://blog.csdn.net/qq_20185737/article/details/107524078">source2</a>
      */
