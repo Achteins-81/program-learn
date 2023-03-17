@@ -1,5 +1,8 @@
 package org.achteins81.app.base.util;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * 数学工具方法类
  *
@@ -82,4 +85,59 @@ public class MathUtils {
         }
         return a * b / getGreatestCommonDivisor(a, b);
     }
+
+    /**
+     * 分解质因数，获取一个非负整数的质因数列表
+     *
+     * @param num 被分解质因数的非负整数
+     * @return 质因数列表
+     * @author Achteins-81
+     * @since 2023-03-17
+     */
+    public static List<Integer> getPrimeFactors(int num) {
+        if (num < 0) {
+            throw new RuntimeException("被分解的数是负数");
+        }
+        /*
+        从最小的质数2开始检查num能否被整除，能整除则是其质因数，并继续检查能否被再次整除（如避免4作为合数被判断为质因数），
+        直到无法被整除，则+1继续检查能否被整除
+         */
+        int i = 2;
+        int temp = num;
+        List<Integer> primeFactors = new ArrayList<>();
+        while (i <= temp) {
+            if (temp % i == 0) {
+                primeFactors.add(i);
+                temp /= i;
+            } else {
+                //提升效率的操作，大于2的偶数必为合数，增加i的值时判断是否为偶数，为偶数则+2，使其保持为奇数
+                i += (i % 2 == 0 ? 1 : 2);
+            }
+        }
+        return primeFactors;
+    }
+
+    /**
+     * 分解质因数结果检查，质因数相乘得到数，与被分解的数相减得到差值，差值为0则正确分解，反之分解错误
+     *
+     * @param num          被分解质因数的非负整数
+     * @param primeFactors 质因数列表
+     * @return 被分解的数与质因数相乘结果的差值，差值为0时表示正确分解，非0时则分解存在错误
+     * @author Achteins-81
+     * @since 2023-03-17
+     */
+    public static int checkPrimeFactors(int num, List<Integer> primeFactors) {
+        if (num < 0) {
+            throw new RuntimeException("被分解的数是负数");
+        }
+        if (primeFactors.size() == 0) {
+            throw new RuntimeException("质因数列表为空");
+        }
+        int result = 1;
+        for (int i : primeFactors) {
+            result *= i;
+        }
+        return num - result;
+    }
+
 }
