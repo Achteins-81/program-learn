@@ -70,7 +70,7 @@ public class MathUtils {
     }
 
     /**
-     * 获取两个整数的最大公约数，先获取两数的最大公约数gcd(a,b)后再通过a*b/gcd(a,b)计算获取
+     * 获取两个非负整数的最大公约数，先获取两数的最大公约数gcd(a,b)后再通过a*b/gcd(a,b)计算获取
      *
      * @param a 第一个整数
      * @param b 第二个整数
