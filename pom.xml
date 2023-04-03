@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.achteins81</groupId>
-    <artifactId>Program-Learn</artifactId>
+    <artifactId>program-learn</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
@@ -16,6 +16,6 @@
     </properties>
 
     <modules>
-        <module>Java-Basic</module>
+        <module>java-basic</module>
     </modules>
 </project>
