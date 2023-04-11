@@ -17,5 +17,6 @@
 
     <modules>
         <module>java-basic</module>
+        <module>spring-mvc-demo</module>
     </modules>
 </project>
