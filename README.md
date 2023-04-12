@@ -1,8 +1,8 @@
 # Program-Learn
 
-Demo code during learning multiple programming languages
+Demo code and sample code during learning multiple programming languages and frameworks
 
-各种编程语言学习中的demo代码
+各种编程语言与技术框架学习中的demo代码、示例代码
 
 ## 模块列表
 
