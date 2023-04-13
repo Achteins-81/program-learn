@@ -7,9 +7,9 @@
 </head>
 <body>
 <h2 style="text-align: center;">Hello World!</h2>
-<div style="text-align: center;">
+<div style="width:60%;height: 100px;margin: auto;text-align: center;">
     <button onclick="getMessage()">click and get a message</button>
-    <p id="message"></p>
+    <p id="message" style="border: solid 2px gray;border-radius: 5px;visibility: hidden;white-space: pre-line;"></p><%--border-style: solid;border-width: 2px;border-color: gray;--%>
 </div>
 </body>
 <script type="text/javascript">
@@ -26,7 +26,7 @@
                 type: "POST",
                 data: {"time": date.toString()},
                 success: function (data) {
-                    $("#message").text(data.data.msg);
+                    $("#message").text(data.data.msg).css("visibility", "visible");
                 },
                 error: function (data) {
 

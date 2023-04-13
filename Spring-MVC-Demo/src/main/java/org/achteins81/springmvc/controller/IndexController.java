@@ -31,7 +31,7 @@ public class IndexController {
     public AjaxResponse getMessage(HttpServletRequest request) {
         String date = request.getParameter("time");
         Map<String, Object> data = new HashMap<>(16);
-        data.put("msg", String.format("This is a Spring MVC Demo.%n Your request send time is: %s", date));
+        data.put("msg", String.format("This is a Spring MVC Demo.%n Your request send time is: %s.", date));
         AjaxResponse result = new AjaxResponse();
         result.setData(data);
         return result;
