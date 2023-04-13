@@ -1,0 +1,8 @@
+G:\dev\code\Program-Learn>mvn -B archetype:generate -DarchetypeGroupId=org.apache.maven.archetypes -DgroupId=com.achteins81.app -DartifactId=program-learn
+
+G:\dev\code\Program-Learn>git init
+
+G:\dev\code\Program-Learn>git add *
+
+G:\dev\code\Program-Learn>git commit -m "init the empty repo"
+
