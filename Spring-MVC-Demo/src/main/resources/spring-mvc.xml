@@ -13,4 +13,10 @@
 
     <!--静态资源映射 -->
     <mvc:resources mapping="/resources/**" location="/resources/"/>
+
+    <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+        <property name="order" value="1"/>
+        <property name="prefix" value="/WEB-INF/views/"/>
+        <property name="suffix" value=".jsp"/>
+    </bean>
 </beans>
