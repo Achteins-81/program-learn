@@ -1,7 +1,7 @@
 <%@ page contentType="text/html;charset=UTF-8" %>
 <html>
 <head>
-    <title>index of the Spring MVC Demo</title>
+    <title>Index of the Spring MVC Demo</title>
     <meta charset="UTF-8">
     <%--<script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-3.6.0.min.js"></script>--%>
     <script src="resources/js/jquery-3.6.4.min.js"></script>
@@ -48,7 +48,7 @@
         let date = new Date();
         $.ajax(
             //url
-            "index/getMessage",
+            "<%=basePath%>" + "index/getMessage",
             //settings
             {
                 type: "POST",
@@ -68,7 +68,7 @@
      * @param path
      */
     function gotoNewPage(path) {
-        window.location.assign(<%=basePath%> +path);
+        window.location.assign("<%=basePath%>" + path);
     }
 </script>
 </html>
