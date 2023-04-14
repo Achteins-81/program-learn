@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <%--<script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-3.6.0.min.js"></script>--%>
     <script src="resources/js/jquery-3.6.4.min.js"></script>
+    <link rel="stylesheet" href="resources/css/index.css">
     <%
         String curPageUrl = request.getRequestURI();
 //        curPageUrl = curPageUrl.substring(curPageUrl.lastIndexOf("/") + 1);
@@ -18,12 +19,14 @@
 </head>
 <body>
 <h2 style="text-align: center;">Hello World!</h2>
-<div style="width:60%;height: 100px;margin: auto;text-align: center;">
+<div class="index-center" style="height: 120px;text-align: center;">
     <button onclick="getMessage()">click and get a message</button>
-    <p id="message" style="border: solid 2px gray;border-radius: 5px;visibility: hidden;white-space: pre-line;"></p><%--border-style: solid;border-width: 2px;border-color: gray;--%>
+    <%--border-style: solid;border-width: 2px;border-color: gray;--%>
+    <p id="message"
+       style="border: solid 2px gray;border-radius: 5px;visibility: hidden;white-space: pre-line;"></p>
 </div>
-<div id="demo-indexes"
-     style="width: 60%;height: 200px;margin: auto;/*border: solid 2px gray;border-radius: 10px;*/">
+<div class="index-center" id="demo-indexes"
+     style="height: 200px;/*border: solid 2px gray;border-radius: 10px;*/">
     <button id="demo-btn1" onclick="gotoNewPage('demo')">go to demo page</button>
 </div>
 </body>
