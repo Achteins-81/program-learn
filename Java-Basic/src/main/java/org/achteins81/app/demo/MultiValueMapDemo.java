@@ -8,11 +8,12 @@ import org.apache.commons.collections.map.MultiValueMap;
 import java.util.*;
 
 /**
- * HashMap - Single Key and Multiple Values using Apache Commons Collections
+ * 在Map中一个key对应多个value
+ * HashMap - Single Key and Multiple Values
  *
- * @see <a href="https://dzone.com/articles/hashmap-%e2%80%93-single-key-and">Jagadeesh Motamarri</a>
- * @see <a href="https://java2blog.com/add-multiple-values-for-single-key-hashmap-java/">java2blog</a>
- * @see <a href="https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/How-to-make-multiple-values-per-key-in-a-Java-map-possible">theserverside</a>
+ * @see <a href="https://dzone.com/articles/hashmap-%e2%80%93-single-key-and">Jagadeesh Motamarri and DZone</a>
+ * @see <a href="https://java2blog.com/add-multiple-values-for-single-key-hashmap-java/">Java2Blog</a>
+ * @see <a href="https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/How-to-make-multiple-values-per-key-in-a-Java-map-possible">TheServerSide</a>
  * @since 2023-04-19
  */
 public class MultiValueMapDemo {
@@ -22,6 +23,11 @@ public class MultiValueMapDemo {
         usingApacheCollections();
     }
 
+    /**
+     * HashMap - Single Key and Multiple Values using List
+     *
+     * @author Jagadeesh Motamarri
+     */
     public static void usingList() {
         // create multimap to store
         Map<String, List<String>> map = new HashMap<>();
@@ -56,6 +62,11 @@ public class MultiValueMapDemo {
         }
     }
 
+    /**
+     * HashMap - Single Key and Multiple Values using Google Guava Collections
+     *
+     * @author Jagadeesh Motamarri
+     */
     public static void usingGuava() {
         // create multimap to store key and values
         Multimap<String, String> multiMap = ArrayListMultimap.create();
@@ -85,6 +96,11 @@ public class MultiValueMapDemo {
         }
     }
 
+    /**
+     * HashMap - Single Key and Multiple Values using Apache Commons Collections
+     *
+     * @author Jagadeesh Motamarri
+     */
     public static void usingApacheCollections() {
         // create multimap to store key and values
         MultiMap multiMap = new MultiValueMap();
