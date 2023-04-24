@@ -45,3 +45,29 @@
     <tr><td style="background-color:#D51635;"></td><td>Crimson</td><td>(213, 22, 53)</td><td>#D51635</td><td>(0, 0.896, 0.751, 0.164)</td><td></td></tr>
     <tr><td style="background-color:#FFFFFF;"></td><td>White</td><td>(255, 255, 255)</td><td>#FFFFFF</td><td>(0, 0, 0, 0)</td><td>Not Available</td></tr>
 </table>
+
+## Grand Theft Auto V
+
+[SchemeColor](https://www.schemecolor.com/grand-theft-auto-gta-v.php)
+
+<table>
+    <tr><td></td><td>Color Name</td><td>RGB Color Code</td><td>HEX Color Code</td><td>CMYK Color Code</td><td>Pantone Color Code</td></tr>
+    <tr><td style="background-color:#47761E;"></td><td>Sap Green</td><td>(71, 118, 30)</td><td>#47761E</td><td>(0.398, 0, 0.745, 0.537)</td><td></td></tr>
+    <tr><td style="background-color:#FED985;"></td><td>Jasmine</td><td>(254, 217, 133)</td><td>#FED985</td><td>(0, 0.145, 0.476, 0.003)</td><td></td></tr>
+    <tr><td style="background-color:#F09E71;"></td><td>Dark Salmon</td><td>(240, 158, 113)</td><td>#F09E71</td><td>(0, 0.341, 0.529, 0.058)</td><td></td></tr>
+    <tr><td style="background-color:#61B5CB;"></td><td>Iceberg</td><td>(97, 181, 203)</td><td>#61B5CB</td><td>(0.522, 0.108, 0, 0.203)</td><td></td></tr>
+    <tr><td style="background-color:#93B592;"></td><td>Dark Sea Green</td><td>(147, 181, 146)</td><td>#93B592</td><td>(0.187, 0, 0.193, 0.290)</td><td></td></tr>
+    <tr><td style="background-color:#D5A0C4;"></td><td>Light Medium Orchid</td><td>(213, 160, 196)</td><td>#D5A0C4</td><td>(0, 0.248, 0.079, 0.164)</td><td></td></tr>
+</table>
+
+VfB Stuttgart
+
+[Team Color Codes](https://teamcolorcodes.com/vfb-stuttgart-color-codes/)
+
+<table>
+    <tr><td></td><td>Color Name</td><td>RGB Color Code</td><td>HEX Color Code</td><td>CMYK Color Code</td><td>Pantone Color Code</td></tr>
+    <tr><td style="background-color:#E32219;"></td><td>Red</td><td>(227, 34, 25)</td><td>#E32219</td><td>(0, 85, 89, 11)</td><td>PMS 485 C</td></tr>
+    <tr><td style="background-color:#FFFFFF;"></td><td>White</td><td>(255, 255, 255)</td><td>#FFFFFF</td><td>(0, 0, 0, 0)</td><td>Not Available</td></tr>
+    <tr><td style="background-color:#FFED00;"></td><td>Yellow</td><td>(255, 237, 0)</td><td>#FFED00</td><td>(0, 7, 100, 0)</td><td>PMS 803 C</td></tr>
+    <tr><td style="background-color:#000000;"></td><td>Black</td><td>(0, 0, 0)</td><td>#000000</td><td>(0, 0, 0, 100) </td><td>PMS Black 6 C</td></tr>
+</table>
