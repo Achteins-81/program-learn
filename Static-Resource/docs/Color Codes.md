@@ -2,7 +2,7 @@
 
 ## Mercedes AMG Petronas F1
 
-[Team Color Codes](https://teamcolorcodes.com/mercedes-amg-petronas-f1-team-color-codes/#:~:text=Mercedes%20AMG%20Petronas%20F1%20Team%20Color%20Codes%20The,Team%20is%20a%20team%20from%20Brackley%2C%20United%20Kingdom.)
+[Team Color Codes](https://teamcolorcodes.com/mercedes-amg-petronas-f1-team-color-codes/)
 
 <table>
     <tr><td></td><td>Color Name</td><td>RGB Color Code</td><td>HEX Color Code</td><td>CMYK Color Code</td><td>Pantone Color Code</td></tr>
@@ -28,7 +28,7 @@
 
 ## Tommy Hilfiger
 
-[Brand Palettes](https://brandpalettes.com/tommy-hilfiger-colors/#:~:text=Tommy%20Hilfiger%20logo%20has%20navy%20blue%2C%20red%2C%20and,of%20the%20brand%20executed%20in%20Sans-Serif%20capital%20letters.)
+[Brand Palettes](https://brandpalettes.com/tommy-hilfiger-colors/)
 
 <table>
     <tr><td></td><td>Color Name</td><td>RGB Color Code</td><td>HEX Color Code</td><td>CMYK Color Code</td><td>Pantone Color Code</td></tr>
