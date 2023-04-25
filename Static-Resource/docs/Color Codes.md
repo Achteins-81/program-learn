@@ -26,6 +26,29 @@
     <tr><td style="background-color:#747474;"></td><td>Sonic Silver    </td><td>(116, 116, 116)</td><td>#747474</td><td>(0, 0, 0, 0.545)        </td><td></td></tr>
 </table>
 
+[ColorsWall](https://colorswall.com/palette/72)
+
+<table>
+    <tr><td></td><td>Color Name</td><td>RGB Color Code</td><td>HEX Color Code</td><td>CMYK Color Code</td><td>Pantone Color Code</td></tr>
+    <tr><td style="background-color:#f25022;"></td><td></td><td>(242, 80, 34)  </td><td>#f25022</td><td></td><td></td></tr>
+    <tr><td style="background-color:#7fba00;"></td><td></td><td>(127, 186, 0)  </td><td>#7fba00</td><td></td><td></td></tr>
+    <tr><td style="background-color:#00a4ef;"></td><td></td><td>(0, 164, 239)  </td><td>#00a4ef</td><td></td><td></td></tr>
+    <tr><td style="background-color:#ffb900;"></td><td></td><td>(255, 185, 0)  </td><td>#ffb900</td><td></td><td></td></tr>
+</table>
+
+## Google
+
+[SchemeColor](https://www.schemecolor.com/google-logo-colors.php)
+[ColorsWall](https://colorswall.com/palette/38)
+
+<table>
+    <tr><td></td><td>Color Name</td><td>RGB Color Code</td><td>HEX Color Code</td><td>CMYK Color Code</td><td>Pantone Color Code</td></tr>
+    <tr><td style="background-color:#4285F4;"></td><td>Blueberry</td><td>(66, 133, 244)</td><td>#4285F4</td><td>(0.729, 0.454, 0, 0.043)</td><td></td></tr>
+    <tr><td style="background-color:#EA4335;"></td><td>Cinnabar</td><td>(234, 67, 53)</td><td>#EA4335</td><td>(0, 0.713, 0.773, 0.082)</td><td></td></tr>
+    <tr><td style="background-color:#FBBC05;"></td><td>Selective Yellow</td><td>(251, 188, 5)</td><td>#FBBC05</td><td>(0, 0.250, 0.980, 0.015)</td><td></td></tr>
+    <tr><td style="background-color:#34A853;"></td><td>Sea Green</td><td>(52, 168, 83)</td><td>#34A853</td><td>(0.690, 0, 0.505, 0.341)</td><td></td></tr>
+</table>
+
 ## Tommy Hilfiger
 
 [Brand Palettes](https://brandpalettes.com/tommy-hilfiger-colors/)
@@ -60,7 +83,7 @@
     <tr><td style="background-color:#D5A0C4;"></td><td>Light Medium Orchid</td><td>(213, 160, 196)</td><td>#D5A0C4</td><td>(0, 0.248, 0.079, 0.164)</td><td></td></tr>
 </table>
 
-VfB Stuttgart
+## VfB Stuttgart
 
 [Team Color Codes](https://teamcolorcodes.com/vfb-stuttgart-color-codes/)
 
@@ -70,4 +93,25 @@ VfB Stuttgart
     <tr><td style="background-color:#FFFFFF;"></td><td>White</td><td>(255, 255, 255)</td><td>#FFFFFF</td><td>(0, 0, 0, 0)</td><td>Not Available</td></tr>
     <tr><td style="background-color:#FFED00;"></td><td>Yellow</td><td>(255, 237, 0)</td><td>#FFED00</td><td>(0, 7, 100, 0)</td><td>PMS 803 C</td></tr>
     <tr><td style="background-color:#000000;"></td><td>Black</td><td>(0, 0, 0)</td><td>#000000</td><td>(0, 0, 0, 100) </td><td>PMS Black 6 C</td></tr>
+</table>
+
+## Germany Flag
+
+[SchemeColor](https://www.schemecolor.com/germany-flag-colors.php)
+[ColorsWall](https://colorswall.com/palette/4646/)
+
+<table>
+    <tr><td></td><td>Color Name</td><td>RGB Color Code</td><td>HEX Color Code</td><td>CMYK Color Code</td><td>Pantone Color Code</td></tr>
+    <tr><td style="background-color:#000000;"></td><td>Black</td><td>(0, 0, 0)</td><td>#000000</td><td>(NAN, NAN, NAN, 1)</td><td></td></tr>
+    <tr><td style="background-color:#DD0000;"></td><td>Electric Red/Red Pegasus</td><td>(221, 0, 0)</td><td>#DD0000</td><td>(0, 1, 1, 0.133)</td><td></td></tr>
+    <tr><td style="background-color:#FFCE00;"></td><td>Tangerine Yellow</td><td>(255, 206, 0)</td><td>#FFCE00</td><td>(0, 0.192, 1, 0)</td><td></td></tr>
+</table>
+
+[Flag Color](https://flagcolor.com/german-flag-colors/)
+
+<table>
+    <tr><td></td><td>Color Name</td><td>RGB Color Code</td><td>HEX Color Code</td><td>CMYK Color Code</td><td>Pantone Color Code</td></tr>
+    <tr><td style="background-color:#000000;"></td><td>Black</td><td>(0, 0, 0)</td><td>#000000</td><td>(0, 0, 0, 100)</td><td>Black</td></tr>
+    <tr><td style="background-color:#DA291C;"></td><td>Red</td><td>(218, 41, 28)</td><td>#DA291C</td><td>(0, 95, 100, 0)</td><td>485</td></tr>
+    <tr><td style="background-color:#FFCD00;"></td><td>Yellow</td><td>(255, 205, 0)</td><td>#FFCD00</td><td>(0, 14, 100, 0)</td><td>PMS 116 C</td></tr>
 </table>
