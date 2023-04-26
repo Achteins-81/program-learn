@@ -5,7 +5,7 @@
 [Team Color Codes](https://teamcolorcodes.com/mercedes-amg-petronas-f1-team-color-codes/)
 
 <table>
-    <tr><td></td><td>Color Name</td><td>RGB Color Code</td><td>HEX Color Code</td><td>CMYK Color Code</td><td>Pantone Color Code</td></tr>
+    <tr><td>Color</td><td>Color Name</td><td>RGB Color Code</td><td>HEX Color Code</td><td>CMYK Color Code</td><td>Pantone Color Code</td></tr>
     <tr><td style="background-color:#000000;"></td><td>Black        </td><td>(0, 0, 0)      </td><td>#000000</td><td>(0, 0, 0, 100) </td><td>PMS Neutral Black C</td></tr>
     <tr><td style="background-color:#C8CCCE;"></td><td>Silver       </td><td>(200, 204, 206)</td><td>#C8CCCE</td><td>(3, 1, 0, 19)  </td><td>PMS 427 C          </td></tr>
     <tr><td style="background-color:#565F64;"></td><td>Dark Grey    </td><td>(86, 95, 100)  </td><td>#565F64</td><td>(14, 5, 0, 61) </td><td>PMS 445 C          </td></tr>
@@ -18,7 +18,7 @@
 [SchemeColor](https://www.schemecolor.com/microsoft-colors.php)
 
 <table>
-    <tr><td></td><td>Color Name</td><td>RGB Color Code</td><td>HEX Color Code</td><td>CMYK Color Code</td><td>Pantone Color Code</td></tr>
+    <tr><td>Color</td><td>Color Name</td><td>RGB Color Code</td><td>HEX Color Code</td><td>CMYK Color Code</td><td>Pantone Color Code</td></tr>
     <tr><td style="background-color:#F34F1C;"></td><td>Orioles Orange  </td><td>(243, 79, 28)  </td><td>#F34F1C</td><td>(0, 0.674, 0.884, 0.047)</td><td></td></tr>
     <tr><td style="background-color:#7FBC00;"></td><td>Apple Green     </td><td>(127, 188, 0)  </td><td>#7FBC00</td><td>(0.324, 0, 1, 0.262)    </td><td></td></tr>
     <tr><td style="background-color:#FFBA01;"></td><td>Selective Yellow</td><td>(255, 186, 1)  </td><td>#FFBA01</td><td>(0, 0.270, 0.996, 0)    </td><td></td></tr>
@@ -29,7 +29,7 @@
 [ColorsWall](https://colorswall.com/palette/72)
 
 <table>
-    <tr><td></td><td>Color Name</td><td>RGB Color Code</td><td>HEX Color Code</td><td>CMYK Color Code</td><td>Pantone Color Code</td></tr>
+    <tr><td>Color</td><td>Color Name</td><td>RGB Color Code</td><td>HEX Color Code</td><td>CMYK Color Code</td><td>Pantone Color Code</td></tr>
     <tr><td style="background-color:#f25022;"></td><td></td><td>(242, 80, 34)  </td><td>#f25022</td><td></td><td></td></tr>
     <tr><td style="background-color:#7fba00;"></td><td></td><td>(127, 186, 0)  </td><td>#7fba00</td><td></td><td></td></tr>
     <tr><td style="background-color:#00a4ef;"></td><td></td><td>(0, 164, 239)  </td><td>#00a4ef</td><td></td><td></td></tr>
@@ -42,7 +42,7 @@
 [ColorsWall](https://colorswall.com/palette/38)
 
 <table>
-    <tr><td></td><td>Color Name</td><td>RGB Color Code</td><td>HEX Color Code</td><td>CMYK Color Code</td><td>Pantone Color Code</td></tr>
+    <tr><td>Color</td><td>Color Name</td><td>RGB Color Code</td><td>HEX Color Code</td><td>CMYK Color Code</td><td>Pantone Color Code</td></tr>
     <tr><td style="background-color:#4285F4;"></td><td>Blueberry</td><td>(66, 133, 244)</td><td>#4285F4</td><td>(0.729, 0.454, 0, 0.043)</td><td></td></tr>
     <tr><td style="background-color:#EA4335;"></td><td>Cinnabar</td><td>(234, 67, 53)</td><td>#EA4335</td><td>(0, 0.713, 0.773, 0.082)</td><td></td></tr>
     <tr><td style="background-color:#FBBC05;"></td><td>Selective Yellow</td><td>(251, 188, 5)</td><td>#FBBC05</td><td>(0, 0.250, 0.980, 0.015)</td><td></td></tr>
@@ -54,7 +54,7 @@
 [Brand Palettes](https://brandpalettes.com/tommy-hilfiger-colors/)
 
 <table>
-    <tr><td></td><td>Color Name</td><td>RGB Color Code</td><td>HEX Color Code</td><td>CMYK Color Code</td><td>Pantone Color Code</td></tr>
+    <tr><td>Color</td><td>Color Name</td><td>RGB Color Code</td><td>HEX Color Code</td><td>CMYK Color Code</td><td>Pantone Color Code</td></tr>
     <tr><td style="background-color:#02154E;"></td><td>Navy Blue    </td><td>(2, 21, 78)    </td><td>#02154E</td><td>(100, 95, 33, 44)</td><td>PMS 274 C</td></tr>
     <tr><td style="background-color:#D61233;"></td><td>Red          </td><td>(214, 18, 51)  </td><td>#D61233</td><td>(10, 100, 86, 2) </td><td>PMS 186 C</td></tr>
     <tr><td style="background-color:#FFFFFF;"></td><td>White        </td><td>(255, 255, 255)</td><td>#FFFFFF</td><td>(0, 0, 0, 0)     </td><td>Not Available</td></tr>
@@ -63,18 +63,18 @@
 [SchemeColor](https://www.schemecolor.com/tommy-hilfiger.php)
 
 <table>
-    <tr><td></td><td>Color Name</td><td>RGB Color Code</td><td>HEX Color Code</td><td>CMYK Color Code</td><td>Pantone Color Code</td></tr>
+    <tr><td>Color</td><td>Color Name</td><td>RGB Color Code</td><td>HEX Color Code</td><td>CMYK Color Code</td><td>Pantone Color Code</td></tr>
     <tr><td style="background-color:#08154A;"></td><td>Cetacean Blue</td><td>(8, 21, 74)</td><td>#08154A</td><td>(0.891, 0.716, 0, 0.709)</td><td></td></tr>
     <tr><td style="background-color:#D51635;"></td><td>Crimson</td><td>(213, 22, 53)</td><td>#D51635</td><td>(0, 0.896, 0.751, 0.164)</td><td></td></tr>
-    <tr><td style="background-color:#FFFFFF;"></td><td>White</td><td>(255, 255, 255)</td><td>#FFFFFF</td><td>(0, 0, 0, 0)</td><td>Not Available</td></tr>
+    <tr><td style="background-color:#FFFFFF;"></td><td>White</td><td>(255, 255, 255)</td><td>#FFFFFF</td><td>(0, 0, 0, 0)</td><td></td></tr>
 </table>
 
-## Grand Theft Auto V
+## Grand Theft Auto (GTA) V
 
 [SchemeColor](https://www.schemecolor.com/grand-theft-auto-gta-v.php)
 
 <table>
-    <tr><td></td><td>Color Name</td><td>RGB Color Code</td><td>HEX Color Code</td><td>CMYK Color Code</td><td>Pantone Color Code</td></tr>
+    <tr><td>Color</td><td>Color Name</td><td>RGB Color Code</td><td>HEX Color Code</td><td>CMYK Color Code</td><td>Pantone Color Code</td></tr>
     <tr><td style="background-color:#47761E;"></td><td>Sap Green</td><td>(71, 118, 30)</td><td>#47761E</td><td>(0.398, 0, 0.745, 0.537)</td><td></td></tr>
     <tr><td style="background-color:#FED985;"></td><td>Jasmine</td><td>(254, 217, 133)</td><td>#FED985</td><td>(0, 0.145, 0.476, 0.003)</td><td></td></tr>
     <tr><td style="background-color:#F09E71;"></td><td>Dark Salmon</td><td>(240, 158, 113)</td><td>#F09E71</td><td>(0, 0.341, 0.529, 0.058)</td><td></td></tr>
@@ -88,7 +88,7 @@
 [Team Color Codes](https://teamcolorcodes.com/vfb-stuttgart-color-codes/)
 
 <table>
-    <tr><td></td><td>Color Name</td><td>RGB Color Code</td><td>HEX Color Code</td><td>CMYK Color Code</td><td>Pantone Color Code</td></tr>
+    <tr><td>Color</td><td>Color Name</td><td>RGB Color Code</td><td>HEX Color Code</td><td>CMYK Color Code</td><td>Pantone Color Code</td></tr>
     <tr><td style="background-color:#E32219;"></td><td>Red</td><td>(227, 34, 25)</td><td>#E32219</td><td>(0, 85, 89, 11)</td><td>PMS 485 C</td></tr>
     <tr><td style="background-color:#FFFFFF;"></td><td>White</td><td>(255, 255, 255)</td><td>#FFFFFF</td><td>(0, 0, 0, 0)</td><td>Not Available</td></tr>
     <tr><td style="background-color:#FFED00;"></td><td>Yellow</td><td>(255, 237, 0)</td><td>#FFED00</td><td>(0, 7, 100, 0)</td><td>PMS 803 C</td></tr>
@@ -101,7 +101,7 @@
 [ColorsWall](https://colorswall.com/palette/4646/)
 
 <table>
-    <tr><td></td><td>Color Name</td><td>RGB Color Code</td><td>HEX Color Code</td><td>CMYK Color Code</td><td>Pantone Color Code</td></tr>
+    <tr><td>Color</td><td>Color Name</td><td>RGB Color Code</td><td>HEX Color Code</td><td>CMYK Color Code</td><td>Pantone Color Code</td></tr>
     <tr><td style="background-color:#000000;"></td><td>Black</td><td>(0, 0, 0)</td><td>#000000</td><td>(NAN, NAN, NAN, 1)</td><td></td></tr>
     <tr><td style="background-color:#DD0000;"></td><td>Electric Red/Red Pegasus</td><td>(221, 0, 0)</td><td>#DD0000</td><td>(0, 1, 1, 0.133)</td><td></td></tr>
     <tr><td style="background-color:#FFCE00;"></td><td>Tangerine Yellow</td><td>(255, 206, 0)</td><td>#FFCE00</td><td>(0, 0.192, 1, 0)</td><td></td></tr>
@@ -110,8 +110,64 @@
 [Flag Color](https://flagcolor.com/german-flag-colors/)
 
 <table>
-    <tr><td></td><td>Color Name</td><td>RGB Color Code</td><td>HEX Color Code</td><td>CMYK Color Code</td><td>Pantone Color Code</td></tr>
+    <tr><td>Color</td><td>Color Name</td><td>RGB Color Code</td><td>HEX Color Code</td><td>CMYK Color Code</td><td>Pantone Color Code</td></tr>
     <tr><td style="background-color:#000000;"></td><td>Black</td><td>(0, 0, 0)</td><td>#000000</td><td>(0, 0, 0, 100)</td><td>Black</td></tr>
     <tr><td style="background-color:#DA291C;"></td><td>Red</td><td>(218, 41, 28)</td><td>#DA291C</td><td>(0, 95, 100, 0)</td><td>485</td></tr>
     <tr><td style="background-color:#FFCD00;"></td><td>Yellow</td><td>(255, 205, 0)</td><td>#FFCD00</td><td>(0, 14, 100, 0)</td><td>PMS 116 C</td></tr>
+</table>
+
+## Mphasis
+
+[SchemeColor](https://www.schemecolor.com/mphasis-logo-colors.php)
+
+<table>
+    <tr><td>Color</td><td>Color Name</td><td>RGB Color Code</td><td>HEX Color Code</td><td>CMYK Color Code</td><td>Pantone Color Code</td></tr>
+    <tr><td style="background-color:#6C7071;"></td><td>Dark Silver</td><td>(108, 112, 113)</td><td>#6C7071</td><td>(0.044, 0.008, 0, 0.556)</td><td></td></tr>
+    <tr><td style="background-color:#1195D3;"></td><td>Rich Electric Blue</td><td>(17, 149, 211)</td><td>#1195D3</td><td>(0.919, 0.293, 0, 0.172)</td><td></td></tr>
+    <tr><td style="background-color:#010000;"></td><td>Black</td><td>(1, 0, 0)</td><td>#010000</td><td>(0, 1, 1, 0.996)</td><td></td></tr>
+</table>
+
+## Steam
+
+[ColorsWall](https://colorswall.com/palette/193)
+
+<table>
+    <tr><td>Color</td><td>Color Name</td><td>RGB Color Code</td><td>HEX Color Code</td><td>CMYK Color Code</td><td>Pantone Color Code</td></tr>
+    <tr><td style="background-color:#171a21;"></td><td></td><td>(23, 26, 33)</td><td>#171a21</td><td></td><td></td></tr>
+    <tr><td style="background-color:#66c0f4;"></td><td></td><td>(102, 192, 244)</td><td>#66c0f4</td><td></td><td></td></tr>
+    <tr><td style="background-color:#1b2838;"></td><td></td><td>(27, 40, 56)</td><td>#1b2838</td><td></td><td></td></tr>
+    <tr><td style="background-color:#2a475e;"></td><td></td><td>(42, 71, 94)</td><td>#2a475e</td><td></td><td></td></tr>
+    <tr><td style="background-color:#c7d5e0;"></td><td></td><td>(199, 213, 224)</td><td>#c7d5e0</td><td></td><td></td></tr>
+</table>
+
+## 12 Color Rainbow
+
+[ColorsWall](https://colorswall.com/palette/92651)
+
+<table>
+    <tr><td>Color</td><td>Color Name</td><td>RGB Color Code</td><td>HEX Color Code</td><td>CMYK Color Code</td><td>Pantone Color Code</td></tr>
+    <tr><td style="background-color:#ff0000;"></td><td>red/Bright Red</td><td>(225, 0, 0)</td><td>#ff0000</td><td></td><td></td></tr>
+    <tr><td style="background-color:#ff8000;"></td><td>orange</td><td>(255, 128, 0)</td><td>#ff8000</td><td></td><td></td></tr>
+    <tr><td style="background-color:#ffff00;"></td><td>yellow/Yellow1</td><td>(255, 255, 0)</td><td>#ffff00</td><td></td><td></td></tr>
+    <tr><td style="background-color:#80ff00;"></td><td>chartreuse</td><td>(128, 255, 0)</td><td>#80ff00</td><td></td><td></td></tr>
+    <tr><td style="background-color:#00ff00;"></td><td>green/Lime</td><td>(0, 255, 0)</td><td>#00ff00</td><td></td><td></td></tr>
+    <tr><td style="background-color:#00ff80;"></td><td>spring green</td><td>(0, 255, 128)</td><td>#00ff80</td><td></td><td></td></tr>
+    <tr><td style="background-color:#00ffff;"></td><td>cyan/Aqua</td><td>(0, 255, 255)</td><td>#00ffff</td><td></td><td></td></tr>
+    <tr><td style="background-color:#0080ff;"></td><td>dodger blue/Brescian Blue</td><td>(0, 128, 255)</td><td>#0080ff</td><td></td><td></td></tr>
+    <tr><td style="background-color:#0000ff;"></td><td>blue/Blue1</td><td>(0, 0, 255)</td><td>#0000ff</td><td></td><td></td></tr>
+    <tr><td style="background-color:#8000ff;"></td><td>purple</td><td>(128, 0, 255)</td><td>#8000ff</td><td></td><td></td></tr>
+    <tr><td style="background-color:#ff00ff;"></td><td>violet/Magenta</td><td>(255, 0, 255)</td><td>#ff00ff</td><td></td><td></td></tr>
+    <tr><td style="background-color:#ff0080;"></td><td>magenta/Neon Rose</td><td>(255, 0, 128)</td><td>#ff0080</td><td></td><td></td></tr>
+</table>
+
+## Navy Blue and Gold
+
+[SchemeColor](https://www.schemecolor.com/navy-blue.php)
+
+<table>
+    <tr><td>Color</td><td>Color Name</td><td>RGB Color Code</td><td>HEX Color Code</td><td>CMYK Color Code</td><td>Pantone Color Code</td></tr>
+    <tr><td style="background-color:#010079;"></td><td>Navy Blue</td><td>(1, 0, 121)</td><td>#010079</td><td>(0.991, 1, 0, 0.525)</td><td></td></tr>
+    <tr><td style="background-color:#1B73D3;"></td><td>Bright Navy Blue</td><td>(27, 115, 211)</td><td>#1B73D3</td><td>(0.872, 0.454, 0, 0.172)</td><td></td></tr>
+    <tr><td style="background-color:#D5AD36;"></td><td>American Gold</td><td>(213, 173, 54)</td><td>#D5AD36</td><td>(0, 0.187, 0.746, 0.164)</td><td></td></tr>
+    <tr><td style="background-color:#CD9703;"></td><td>Chinese Gold</td><td>(205, 151, 3)</td><td>#CD9703</td><td>(0, 0.263, 0.985, 0.196)</td><td></td></tr>
 </table>
