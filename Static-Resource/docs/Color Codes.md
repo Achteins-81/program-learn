@@ -171,3 +171,46 @@
     <tr><td style="background-color:#D5AD36;"></td><td>American Gold</td><td>(213, 173, 54)</td><td>#D5AD36</td><td>(0, 0.187, 0.746, 0.164)</td><td></td></tr>
     <tr><td style="background-color:#CD9703;"></td><td>Chinese Gold</td><td>(205, 151, 3)</td><td>#CD9703</td><td>(0, 0.263, 0.985, 0.196)</td><td></td></tr>
 </table>
+
+## Bright German 
+
+[SchemeColor](https://www.schemecolor.com/bright-german-color-palette.php)
+
+<table>
+    <tr><td>Color</td><td>Color Name</td><td>RGB Color Code</td><td>HEX Color Code</td><td>CMYK Color Code</td><td>Pantone Color Code</td></tr>
+    <tr><td style="background-color:#484649;"></td><td>Outer Space</td><td>(72, 70, 73)</td><td>#484649</td><td>(0.013, 0.041, 0, 0.713)</td><td></td></tr>
+    <tr><td style="background-color:#FE5339;"></td><td>Ogre Odor</td><td>(254, 83, 57)</td><td>#FE5339</td><td>(0, 0.673, 0.775, 0.003)</td><td></td></tr>
+    <tr><td style="background-color:#FFD541;"></td><td>Gargoyle Gas</td><td>(255, 213, 65)</td><td>#FFD541</td><td>(0, 0.164, 0.745, 0)</td><td></td></tr>
+    <tr><td style="background-color:#DF4595;"></td><td>Pantone Pink</td><td>(223, 69, 149)</td><td>#DF4595</td><td>(0, 0.690, 0.331, 0.125)</td><td></td></tr>
+    <tr><td style="background-color:#FFF3DC;"></td><td>Cornsilk</td><td>(255, 243, 220)</td><td>#FFF3DC</td><td>(0, 0.047, 0.137, 0)</td><td></td></tr>
+</table>
+
+## Pot of Gold
+
+[SchemeColor](https://www.schemecolor.com/pot-of-gold.php)
+
+<table>
+    <tr><td>Color</td><td>Color Name</td><td>RGB Color Code</td><td>HEX Color Code</td><td>CMYK Color Code</td><td>Pantone Color Code</td></tr>
+    <tr><td style="background-color:#FF1529;"></td><td>Scarlet</td><td>(255, 21, 41)</td><td>#FF1529</td><td>(0, 0.917, 0.839, 0)</td><td></td></tr>
+    <tr><td style="background-color:#FF961B;"></td><td>Beer</td><td>(255, 150, 27)</td><td>#FF961B</td><td>(0, 0.411, 0.894, 0)</td><td></td></tr>
+    <tr><td style="background-color:#FDFD15;"></td><td>Lemon Glacier</td><td>(253, 253, 21)</td><td>#FDFD15</td><td>(0, 0, 0.916, 0.007)</td><td></td></tr>
+    <tr><td style="background-color:#18D43F;"></td><td>Malachite</td><td>(24, 212, 63)</td><td>#18D43F</td><td>(0.886, 0, 0.702, 0.168)</td><td></td></tr>
+    <tr><td style="background-color:#1A82DE;"></td><td>Bright Navy Blue</td><td>(26, 130, 222)</td><td>#1A82DE</td><td>(0.882, 0.414, 0, 0.129)</td><td></td></tr>
+    <tr><td style="background-color:#8A29EA;"></td><td>Blue-Violet</td><td>(138, 41, 234)</td><td>#8A29EA</td><td>(0.410, 0.824, 0, 0.082)</td><td></td></tr>
+</table>
+
+## Bootstrap 5 Colors
+
+[ColorsWall](https://colorswall.com/palette/67931)
+
+<table>
+    <tr><td>Color</td><td>Color Name</td><td>RGB Color Code</td><td>HEX Color Code</td><td>CMYK Color Code</td><td>Pantone Color Code</td></tr>
+    <tr><td style="background-color:#0d6efd;"></td><td>Primary</td><td>(13, 110, 253)</td><td>#0d6efd</td><td></td><td></td></tr>
+    <tr><td style="background-color:#6c757d;"></td><td>Secondary/Pompeii Ash</td><td>(13, 110, 253)</td><td>#6c757d</td><td></td><td></td></tr>
+    <tr><td style="background-color:#28a745;"></td><td>Success</td><td>(40, 167, 69)</td><td>#28a745</td><td></td><td></td></tr>
+    <tr><td style="background-color:#dc3545;"></td><td>Danger</td><td>(220, 53, 69)</td><td>#dc3545</td><td></td><td></td></tr>
+    <tr><td style="background-color:#ffc107;"></td><td>Warning</td><td>(255, 193, 7)</td><td>#ffc107</td><td></td><td></td></tr>
+    <tr><td style="background-color:#17a2b8;"></td><td>Info</td><td>(23, 162, 184)</td><td>#17a2b8</td><td></td><td></td></tr>
+    <tr><td style="background-color:#f8f9fa;"></td><td>Light</td><td>(248, 249, 250)</td><td>#f8f9fa</td><td></td><td></td></tr>
+    <tr><td style="background-color:#343a40;"></td><td>Dark</td><td>(52, 58, 64)</td><td>#343a40</td><td></td><td></td></tr>
+</table>
