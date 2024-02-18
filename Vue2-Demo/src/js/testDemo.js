@@ -12,11 +12,10 @@ let demoList = [
 let list0 = [...sampleList];
 console.log('list0:', list0);
 
+let list1 = [];
 /**
  * 箭头函数
- * @type {*[]}
  */
-let list1 = [];
 sampleList.forEach(sample => {
     if (demoList.filter(item => item.id === sample.id).length > 0) {
         list1.push(sample);
@@ -24,12 +23,12 @@ sampleList.forEach(sample => {
 });
 console.log('1st loop:', list1);
 
+list1 = [];
 /**
  * 箭头函数
  * 函数休有大括号{}时，注意需要有return返回
- * @type {*[]}
+ * @see https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Functions/arrow_functions
  */
-list1 = []
 sampleList.forEach(sample => {
     if (demoList.filter(item => {
         item.id === sample.id
@@ -39,7 +38,7 @@ sampleList.forEach(sample => {
 });
 console.log('2nd loop with no return:', list1);
 
-list1 = []
+list1 = [];
 sampleList.forEach(sample => {
     if (demoList.filter(item => {
         return item.id === sample.id
