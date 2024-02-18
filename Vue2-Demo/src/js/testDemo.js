@@ -26,7 +26,7 @@ console.log('1st loop:', list1);
 list1 = [];
 /**
  * 箭头函数
- * 函数休有大括号{}时，注意需要有return返回
+ * 函数体有大括号{}时，注意需要有return返回
  * @see https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Functions/arrow_functions
  */
 sampleList.forEach(sample => {
