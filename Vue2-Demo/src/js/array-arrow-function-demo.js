@@ -51,3 +51,6 @@ console.log('2nd loop with return:', list1);
 sampleList[0].job = 'student';
 
 console.log(list1);
+
+console.log(list1 instanceof Array,!list1 instanceof Array,!(list1 instanceof Array));
+console.log(sampleList[0] instanceof Array,!sampleList[0] instanceof Array,!(sampleList[0] instanceof Array));
