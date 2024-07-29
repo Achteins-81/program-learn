@@ -1,53 +1,10 @@
-let sampleList = [
-    {id: '1', name: 'Tom'},
-    {id: '2', name: 'Jerry'},
-    {id: '3', name: 'John'},
-    {id: '4', name: 'Michael'},
-];
+let tjz = '{\'pzlx\':\'01\',\'sljg\':\'01000003\',\'ywlsh\':\'TJFA0000995401\',\'kjnd\':\'2023\',\'dzpzzt\':\'0\',\'showtype\':\'1\',\'userid\':\'1000000000000067122\',\'sfgx\':\'1\',\'hszt\':\'01010000\',\'ztbh\':\'{\'key\':\'01\',\'label\':\'住房公积金账套\'}\',\'gnbh\':\'pzgl\',\'famc\':\'查询方案2023\',\'hsztmc\':\'核算中心\'}'
+let tjz1 = '{\'pzlx\':\'01\',\'sljg\':\'01000003\',\'ywlsh\':\'TJFA0000995401\',\'kjnd\':\'2023\',\'dzpzzt\':\'0\',\'showtype\':\'1\',\'userid\':\'1000000000000067122\',\'sfgx\':\'1\',\'hszt\':\'01010000\',\'gnbh\':\'pzgl\',\'famc\':\'查询方案2023\',\'hsztmc\':\'核算中心\'}'
 
-let demoList = [
-    {id: '1', age: 17}, {id: '3', age: 20}
-];
+console.log(tjz.lastIndexOf('\'{'))
+tjz = tjz.replace('\'{', '{').replace('}\'', '}')
 
-let list0 = [...sampleList];
-console.log('list0:', list0);
+let result = eval('(' + (tjz) + ')');
+// let result = JSON.parse(tjz);//SyntaxError: Unexpected token ' in JSON at position 1
 
-let list1 = [];
-/**
- * 箭头函数
- */
-sampleList.forEach(sample => {
-    if (demoList.filter(item => item.id === sample.id).length > 0) {
-        list1.push(sample);
-    }
-});
-console.log('1st loop:', list1);
-
-list1 = [];
-/**
- * 箭头函数
- * 函数体有大括号{}时，注意需要有return返回
- * @see https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Functions/arrow_functions
- */
-sampleList.forEach(sample => {
-    if (demoList.filter(item => {
-        item.id === sample.id
-    }).length > 0) {
-        list1.push(sample);
-    }
-});
-console.log('2nd loop with no return:', list1);
-
-list1 = [];
-sampleList.forEach(sample => {
-    if (demoList.filter(item => {
-        return item.id === sample.id
-    }).length > 0) {
-        list1.push(sample);
-    }
-});
-console.log('2nd loop with return:', list1);
-
-sampleList[0].job = 'student';
-
-console.log(list1);
+console.log(result);
