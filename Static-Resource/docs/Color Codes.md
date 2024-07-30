@@ -172,7 +172,7 @@
     <tr><td style="background-color:#CD9703;"></td><td>Chinese Gold</td><td>(205, 151, 3)</td><td>#CD9703</td><td>(0, 0.263, 0.985, 0.196)</td><td></td></tr>
 </table>
 
-## Bright German 
+## Bright German
 
 [SchemeColor](https://www.schemecolor.com/bright-german-color-palette.php)
 
@@ -213,4 +213,38 @@
     <tr><td style="background-color:#17a2b8;"></td><td>Info</td><td>(23, 162, 184)</td><td>#17a2b8</td><td></td><td></td></tr>
     <tr><td style="background-color:#f8f9fa;"></td><td>Light</td><td>(248, 249, 250)</td><td>#f8f9fa</td><td></td><td></td></tr>
     <tr><td style="background-color:#343a40;"></td><td>Dark</td><td>(52, 58, 64)</td><td>#343a40</td><td></td><td></td></tr>
+</table>
+
+## Vue.js
+
+[SchemeColor](https://www.schemecolor.com/vue-js-logo-colors.php)
+
+<table>
+    <tr><td>Color</td><td>Color Name</td><td>RGB Color Code</td><td>HEX Color Code</td><td>CMYK Color Code</td><td>Pantone Color Code</td></tr>
+    <tr><td style="background-color:#34495e;"></td><td>Police Blue</td><td>(52, 73, 94)</td><td>#34495e</td><td>(0.446, 0.223, 0, 0.631)</td><td></td></tr>
+    <tr><td style="background-color:#41b883;"></td><td>Mint</td><td>(65, 184, 131)</td><td>#41b883</td><td>(0.646, 0, 0.288, 0.278)</td><td></td></tr>
+</table>
+
+## Olympic
+
+[ColorsWall](https://colorswall.com/palette/170963)
+
+<table>
+    <tr><td>Color</td><td>Color Name</td><td>RGB Color Code</td><td>HEX Color Code</td><td>CMYK Color Code</td><td>Pantone Color Code</td></tr>
+    <tr><td style="background-color:#0286c3;"></td><td>blue</td><td>(2, 134, 195)</td><td>#0286c3</td><td></td><td></td></tr>
+    <tr><td style="background-color:#fbb22e;"></td><td>yellow</td><td>(251, 178, 46)</td><td>#fbb22e</td><td></td><td></td></tr>
+    <tr><td style="background-color:#000000;"></td><td>black</td><td>(0, 0, 0)</td><td>#000000</td><td></td><td></td></tr>
+    <tr><td style="background-color:#168c39;"></td><td>green</td><td>(22, 140, 57)</td><td>#168c39</td><td></td><td></td></tr>
+    <tr><td style="background-color:#ee2f4d;"></td><td>red</td><td>(238, 47, 77)</td><td>#ee2f4d</td><td></td><td></td></tr>
+</table>
+
+[SchemeColor](https://www.schemecolor.com/olympic-logos-and-symbols-colors.php)
+
+<table>
+    <tr><td>Color</td><td>Color Name</td><td>RGB Color Code</td><td>HEX Color Code</td><td>CMYK Color Code</td><td>Pantone Color Code</td></tr>
+    <tr><td style="background-color:#0085c7;"></td><td>NCS Blue</td><td>(0, 133, 199)</td><td>#0085c7</td><td>(1, 0.331, 0, 0.219)</td><td></td></tr>
+    <tr><td style="background-color:#f4c300;"></td><td>Golden Poppy</td><td>(244, 195, 0)</td><td>#f4c300</td><td>(0, 0.200, 1, 0.043)</td><td></td></tr>
+    <tr><td style="background-color:#000000;"></td><td>Black</td><td>(0, 0, 0)</td><td>#000000</td><td>(NAN, NAN, NAN, 1)</td><td></td></tr>
+    <tr><td style="background-color:#009f3d;"></td><td>Pantone Green</td><td>(0, 159, 61)</td><td>#009f3d</td><td>(1, 0, 0.616, 0.376)</td><td></td></tr>
+    <tr><td style="background-color:#df0024;"></td><td>Cadmium Red</td><td>(223, 0, 36)</td><td>#df0024</td><td>(0, 1, 0.838, 0.125)</td><td></td></tr>
 </table>
