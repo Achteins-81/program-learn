@@ -1,8 +1,11 @@
 import Vue from 'vue'
-import App from './vue-origin/App.vue'
+import MyMainPage from "./MyMainPage.vue";
 
-import './assets/main.css'
+import './vue-origin/assets/main.css'
+
+import router from './router/index'
 
 new Vue({
-  render: (h) => h(App)
+    render: (h) => h(MyMainPage),
+    router,
 }).$mount('#app')
