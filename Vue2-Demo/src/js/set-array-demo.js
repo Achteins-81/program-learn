@@ -24,3 +24,17 @@ demoSet.delete('1')
 console.log(demoSet);
 console.log(demoSet.has('1'));
 console.log(demoSet.has('2'));
+
+demoSet.add(['4', '5', '6']);
+console.log(demoSet);
+demoSet.add(...['4', '5', '6']);
+console.log(demoSet);
+let elements = ['4', '5', '6'];
+demoSet.add(...elements);
+console.log(demoSet)
+
+demoSet.delete(['4', '5']);
+demoSet.delete(['4', '5', '6']);
+
+['4', '5', '6'].forEach(id => demoSet.add(id));
+console.log(demoSet);
